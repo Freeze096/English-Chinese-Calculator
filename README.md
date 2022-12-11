@@ -1,5 +1,5 @@
 # English-Chinese-Calculator
-use Dev-C++ to run it
+use Dev-C++ to run it! 
 If there is bugs, use this to contect me:
 Freeze096@outlook.com or juansiliutong@163.com
 
