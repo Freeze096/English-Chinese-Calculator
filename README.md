@@ -1,6 +1,6 @@
 # English-Chinese-Calculator
 use Dev-C++ to run it! 
-If there is bugs, use this to contect me:
+If there are bugs, use this to contect me:<<endl;
 Freeze096@outlook.com or juansiliutong@163.com
 
 用Dev-C++直接编译运行!
