@@ -8,7 +8,7 @@ Freeze096@126.com or huangyubo096@gmail.com
 联系方式：Freeze096@126.com 或 huangyubo096@gmail.com
 
 
-下载地址/downoad address:https://github.com/Freeze096/English-Chinese-Calculator/archive/refs/heads/main.zip
+下载地址/download address:https://github.com/Freeze096/English-Chinese-Calculator/archive/refs/heads/main.zip
 
 -2.0新增：清屏功能!
 
